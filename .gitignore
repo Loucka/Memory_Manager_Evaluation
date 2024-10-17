@@ -1,0 +1,5 @@
+# Ignore the entire build directory as this changes on every build
+build
+
+# Also ignore the .vscode directory to prevent clutter.
+.vscode
