@@ -1,4 +1,13 @@
------------------------------------ BUILDING & RUNNING ----------------------------------- 
+----------------------------------- INTRODUCTION -----------------------------------------
+
+As stated in the description, this project was administered as a technical evaluation for an
+embedded software engineer position. Original instructions with redacted employer info
+can be found within _EvaluationInstructions.pdf_. In short, the goal of this assessment
+is to produce a memory management implementation for an embedded system that also provides 
+bluetooth accessibilty alongisde sound error handling and unit testing.
+
+----------------------------------- BUILDING & RUNNING -----------------------------------
+
 For ease of use, the recommended approach for compiling/running of project executables is
 through vscode. As such, these instructions will provide links for procuring and setting up
 the required extensions and other toolchain items. Alternatively, terminal-based compilation
